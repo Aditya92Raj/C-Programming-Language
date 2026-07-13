@@ -1,4 +1,4 @@
-//Basic input & output program.
+//Write a program to input number from user and swapp to two number without using third variable.
 #include <stdio.h>
 int main()
 {
