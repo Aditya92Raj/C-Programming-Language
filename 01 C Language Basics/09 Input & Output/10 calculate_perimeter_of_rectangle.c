@@ -1,4 +1,4 @@
-//Write a program to input side of rectangle and calculate perimeter of rectangle.
+//Write a program to input length and breadth of rectangle and calculate perimeter of rectangle.
 #include <stdio.h>
 int main() {
     int l,b;
