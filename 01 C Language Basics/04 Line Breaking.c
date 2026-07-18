@@ -1,4 +1,4 @@
-//Line Break in Python.
+//Line Break in C language.
 #include<stdio.h>
 int main()
 {
