@@ -1,4 +1,4 @@
-//Write a program to print T form star pattern in C language.
+//Write a program to print J form star pattern in C language.
 #include <stdio.h>
 int main() {
     int a,i,j;
