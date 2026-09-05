@@ -1,4 +1,4 @@
-/Write a program to print 9 form star pattern in C language.
+//Write a program to print 5 form star pattern in C language.
 #include <stdio.h>
 int main() {
     int a,i,j;
