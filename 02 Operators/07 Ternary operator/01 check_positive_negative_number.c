@@ -8,3 +8,4 @@ int main() {
     (x>=0)?printf("positive number"):printf("negative number");
     return 0;
 }
+//Ternari operator is a conditional operator used as a short form of if & else.
