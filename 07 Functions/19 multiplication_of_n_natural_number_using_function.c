@@ -5,10 +5,9 @@ void num()
     int n,s=1;
     printf("Enter a number:");
     scanf("%d",&n);
-    for(int i=2;i<=n;i++)
+    for(int i=1;i<=n;i++)
         {
             s*=i;
-            i++;
         }
     printf("%d",s);
 }
