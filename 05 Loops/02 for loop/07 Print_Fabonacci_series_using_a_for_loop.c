@@ -1,4 +1,4 @@
-//Write a program to printf abonacci Series using a for loop in C language.
+//Write a program to printf fabonacci Series using a for loop in C language.
 #include <stdio.h>
 int main()
 {
